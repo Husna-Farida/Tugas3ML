@@ -1,0 +1,1 @@
+K(x, xi) = sum(x * xi)
